@@ -3,8 +3,8 @@
 - ✨ My skills consist of:
 -- Programming and computational thinking;
 -- Git / GitHub;
--- HTML / CSS3 (soon);
--- JavaScript (soon);
+-- HTML / CSS3;
+-- JavaScript;
 -- Java (POO);
 -- Angular (soon);
 -- TypeScript (soon);
