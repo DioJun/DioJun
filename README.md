@@ -11,7 +11,7 @@
 -- React;
 -- Python;
 -- English (writing and speaking).
-- 📫 You can make contact whit me through my email: junior_dionizio@outlook.com.br
+- 📫 You can make contact whit me through my email: dionisio.s.p.junior@icloud.com
 
 <!---
 DioJun/DioJun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
